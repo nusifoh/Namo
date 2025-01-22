@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/nusifoh/Namo/blob/main/octocat-1737582204819.png" alt="Custom Octocat" width="150">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="https://github.com/nusifoh/Namo/blob/main/octocat-1737582204819.png" alt="Custom Octocat" width="150" style="border-radius: 8px;">
   <div>
     <h1>Meet Nnamdi 👨🏽‍🏫 📊</h1>
     <p>
-      Hi 👋🏽 I'm Nnamdi (Namo). A public health Data Scientist and Manager with expertise in data quality and standards in organizations.
+      Hi 👋🏽 I'm Nnamdi (Namo). A public health Data Scientist and Manager, with expertise in data quality and standards in organizations.
       I have 8️⃣ years of experience contributing to the healthcare sector and public health through information technology, analytics, workflow improvement, and consultations.
     </p>
     <p><strong>Tools 💻:</strong> Power BI, Tableau, SQL, and Python to develop data-driven, informative insights using health data.</p>
