@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/nusifoh/Namo/blob/main/octocat.png" alt="Custom Octocat" width="150" style="margin-right: 20px;">
+  <img src="https://github.com/nusifoh/Namo/blob/main/octocat-1737582204819.png" alt="Custom Octocat" width="150" style="margin-right: 20px;">
   <div>
     <h1>Meet Nnamdi 👨🏽‍🏫 📊</h1>
     <p>
