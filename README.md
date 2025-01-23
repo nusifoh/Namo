@@ -18,10 +18,13 @@ I have 8️⃣ years of experience contributing to the healthcare sector and pub
 <br clear="all">
 
 ### Skills
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
+![Power Platforms](https://img.shields.io/badge/-PowerPlatforms-blue?style=flat-square&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
+<!--- ![PowerBI](https://img.shields.io/badge/-PowerBI-blue?style=flat-square&logo=tableau&logoColor=white) --> 
+
 
 ### Data Frameworks and tools
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
