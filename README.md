@@ -20,7 +20,7 @@ I have 8️ years of experience contributing to the healthcare sector and public
 ### Skills
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
-![Microsoft Power Platforms](https://img.shields.io/badge/-MicrosoftPowerPlatforms-blue?style=flat-square&logo=tableau&logoColor=white)
+![Microsoft Power Platforms](https://img.shields.io/badge/-Microsoft%20Power%20Platforms-blue?style=flat-square&logo=tableau&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
 ![FHIR](https://img.shields.io/badge/FHIR-red)
