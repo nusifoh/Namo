@@ -2,10 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nusifoh&label=Profile%20views&color=800080&style=flat)
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/nnamdiusifoh?)
-
-Hi 👋🏽 I'm Nnamdi (Namo). A Health Data Scientist and Health Information Systems Specialist with expertise in data standards, terminologies, and health information systems strengthening.  
-I have 🔟 years of experience contributing to the healthcare sector and public health through information technology, analytics, workflow improvement, and consultations.
-
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="https://github.com/nusifoh/Namo/blob/main/octocat-1737582204819.png" alt="Custom Octocat" width="200" align="left"/>
   <p>
