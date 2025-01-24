@@ -11,7 +11,6 @@ I have 🔟 years of experience contributing to the healthcare sector and public
   <p>
     <strong>Hi 👋🏽 I'm Nnamdi (Namo). A Health Data Scientist and Health Information Systems Specialist with expertise in data standards, terminologies, and health information systems strengthening.  
       I have 🔟 years of experience contributing to the healthcare sector and public health through information technology, analytics, workflow improvement, and consultations.
-      Tools 💻:</strong> Microsoft Power Platform (Power BI, Power Automate, Power Apps), Tableau, SQL, Python, Microsoft Dynamics 365, ArcGIS, QGIS; to develop data-driven, informative insights using health data and coordinate data standards.
     <br><br>
     To learn more 👉🏾👉🏾 Check out my repositories below to see my projects and contributions.
   </p>
