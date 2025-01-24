@@ -17,7 +17,8 @@ I have 8️ years of experience contributing to the healthcare sector and public
 
 <br clear="all">
 
-### Skills
+### SKILLS
+### Data Framework, Tools and Technologies
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-pink)
@@ -26,14 +27,15 @@ I have 8️ years of experience contributing to the healthcare sector and public
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
 ![FHIR](https://img.shields.io/badge/FHIR-red)
 ![GIS](https://img.shields.io/badge/GIS-green)
+![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
 
 <!--- ![PowerBI](https://img.shields.io/badge/-PowerBI-blue?style=flat-square&logo=tableau&logoColor=white) --> 
 
 
-### Data Frameworks and tools
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
+### Industry Knowledge
+
 
 ### Contact 📫
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/nnamdiusifoh?)
