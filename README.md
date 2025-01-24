@@ -25,7 +25,7 @@ I have 🔟 years of experience contributing to the healthcare sector and public
 ![Microsoft Power Platforms](https://img.shields.io/badge/-Microsoft%20Power%20Platforms-blue?style=flat-square&logo=microsoft&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
-![FHIR](https://img.shields.io/badge/-FHIR-red?style=flat-square&logo=fhir&logoColor=white)
+![FHIR](https://img.shields.io/badge/FHIR-red)
 ![GIS](https://img.shields.io/badge/GIS-green)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
