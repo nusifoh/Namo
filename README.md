@@ -6,11 +6,11 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 <img src="https://github.com/nusifoh/Namo/blob/main/octocat-1737582204819.png" alt="Custom Octocat" width="200" align="left"/>
 <p>
-<strong>Hi 👋🏽 I'm Nnamdi (Namo). A Health Data Scientist and Health Information Systems Specialist with expertise in data standards, terminologies, and health information systems strengthening.  
-I have 🔟 years of experience contributing to the healthcare sector and public health through information technology, analytics, workflow improvement, and consultations.
-<br><br>
-To learn more 👉🏾👉🏾 Check out my repositories below to see my projects and contributions.
-</p>
+<strong> Hi 👋🏽 I'm Nnamdi (Namo). A Health Data Scientist and Health Information Systems Specialist with expertise in data standards, terminologies, and health information systems strengthening.  
+        I have 🔟 years of experience contributing to the healthcare sector and public health through information technology, analytics, workflow improvement, and consultations.
+        <br><br>
+        To learn more 👉🏾👉🏾 Check out my repositories below to see my projects and contributions.
+    </p>
 </div>
 
 <br clear="all">
