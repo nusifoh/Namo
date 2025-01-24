@@ -28,7 +28,6 @@ I have 8️ years of experience contributing to the healthcare sector and public
 ![FHIR](https://img.shields.io/badge/FHIR-red)
 ![GIS](https://img.shields.io/badge/GIS-green)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)
 
 <!--- ![PowerBI](https://img.shields.io/badge/-PowerBI-blue?style=flat-square&logo=tableau&logoColor=white) --> 
