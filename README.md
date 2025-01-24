@@ -1,6 +1,5 @@
 # Meet Nnamdi 🧑🏽‍💻 📊
 ![Profile Views](https://komarev.com/ghpvc/?username=nusifoh&label=Profile%20views&color=800080&style=flat)
-
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24">](https://www.linkedin.com/in/nnamdiusifoh?)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
