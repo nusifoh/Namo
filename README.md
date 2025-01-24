@@ -34,7 +34,7 @@ I have 🔟 years of experience contributing to the healthcare sector and public
 
 
 ### Industry Knowledge
-
+Health Informatics, Epidemiology, Health Information Exchange, Digital Health Solutions, Data Science, Data Analysis, Data Visualization, Geographic Information Systems, International Health
 
 ### Contact 📫
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/nnamdiusifoh?)
